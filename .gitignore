@@ -1,0 +1,10 @@
+/.jbundler
+/.bundle
+/log/*.log
+/tmp
+*.DS_Store
+/.idea
+.env
+*.war
+/vendor
+/bin
